@@ -1,0 +1,43 @@
+2026-03-28 12:25:39 DEPRECATED OPTION: --persist-key option ignored. Keys are now always persisted across restarts. 
+2026-03-28 12:25:39 WARNING: Compression for receiving enabled. Compression has been used in the past to break encryption. Compression support is deprecated and we recommend to disable it completely.
+2026-03-28 12:25:39 Note: --data-ciphers-fallback with cipher 'AES-128-CBC' disables data channel offload.
+2026-03-28 12:25:39 OpenVPN 2.7.0 x86_64-pc-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [PKCS11] [MH/PKTINFO] [AEAD] [DCO]
+2026-03-28 12:25:39 library versions: OpenSSL 3.5.5 27 Jan 2026, LZO 2.10
+2026-03-28 12:25:39 DCO version: N/A
+2026-03-28 12:25:39 TCP/UDP: Preserving recently used remote address: [AF_INET]38.46.224.104:443
+2026-03-28 12:25:39 Socket Buffers: R=[131072->131072] S=[16384->16384]
+2026-03-28 12:25:39 Attempting to establish TCP connection with [AF_INET]38.46.224.104:443
+2026-03-28 12:25:39 TCP connection established with [AF_INET]38.46.224.104:443
+2026-03-28 12:25:39 TCPv4_CLIENT link local: (not bound)
+2026-03-28 12:25:39 TCPv4_CLIENT link remote: [AF_INET]38.46.224.104:443
+2026-03-28 12:25:40 Connection reset, restarting [0]
+2026-03-28 12:25:40 SIGUSR1[soft,connection-reset] received, process restarting
+2026-03-28 12:25:40 Restart pause, 2 second(s)
+2026-03-28 12:25:42 TCP/UDP: Preserving recently used remote address: [AF_INET]38.46.224.104:443
+2026-03-28 12:25:42 Socket Buffers: R=[131072->131072] S=[16384->16384]
+2026-03-28 12:25:42 Attempting to establish TCP connection with [AF_INET]38.46.224.104:443
+2026-03-28 12:25:43 TCP connection established with [AF_INET]38.46.224.104:443
+2026-03-28 12:25:43 TCPv4_CLIENT link local: (not bound)
+2026-03-28 12:25:43 TCPv4_CLIENT link remote: [AF_INET]38.46.224.104:443
+2026-03-28 12:25:44 Connection reset, restarting [0]
+2026-03-28 12:25:44 SIGUSR1[soft,connection-reset] received, process restarting
+2026-03-28 12:25:44 Restart pause, 2 second(s)
+2026-03-28 12:25:46 TCP/UDP: Preserving recently used remote address: [AF_INET]38.46.224.104:443
+2026-03-28 12:25:46 Socket Buffers: R=[131072->131072] S=[16384->16384]
+2026-03-28 12:25:46 Attempting to establish TCP connection with [AF_INET]38.46.224.104:443
+2026-03-28 12:25:46 TCP connection established with [AF_INET]38.46.224.104:443
+2026-03-28 12:25:46 TCPv4_CLIENT link local: (not bound)
+2026-03-28 12:25:46 TCPv4_CLIENT link remote: [AF_INET]38.46.224.104:443
+2026-03-28 12:25:46 Connection reset, restarting [0]
+2026-03-28 12:25:46 SIGUSR1[soft,connection-reset] received, process restarting
+2026-03-28 12:25:46 Restart pause, 2 second(s)
+2026-03-28 12:25:48 TCP/UDP: Preserving recently used remote address: [AF_INET]38.46.224.104:443
+2026-03-28 12:25:48 Socket Buffers: R=[131072->131072] S=[16384->16384]
+2026-03-28 12:25:48 Attempting to establish TCP connection with [AF_INET]38.46.224.104:443
+2026-03-28 12:25:49 TCP connection established with [AF_INET]38.46.224.104:443
+2026-03-28 12:25:49 TCPv4_CLIENT link local: (not bound)
+2026-03-28 12:25:49 TCPv4_CLIENT link remote: [AF_INET]38.46.224.104:443
+2026-03-28 12:25:50 Connection reset, restarting [0]
+2026-03-28 12:25:50 SIGUSR1[soft,connection-reset] received, process restarting
+2026-03-28 12:25:50 Restart pause, 2 second(s)
+2026-03-28 12:25:50 SIGINT[hard,init_instance] received, process exiting
