@@ -1,5 +1,5 @@
 
-![[Pasted image 20260511061314.png|471]]
+![image](Attachments/Pasted%20image%2020260511061314.png)
 
 Heyyyyyy! It’s M4ST3RS or just Kev,well never mind after all who care’s 🤷‍♂️ 
 Other wise guys lets go through this easy challenge on #Picogym #picoctf currently having a new look and feel Cylab Security Academy ===> [https://cylabacademy.org/]
