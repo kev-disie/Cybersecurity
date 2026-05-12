@@ -1,0 +1,13 @@
+matrix-breakout-2-morpheus.ova	
+*.ova
+*.iso
+*.qcow2
+*.vmdk
+*.mp4
+*.pcap
+*.cap
+venv/
+.venv/
+node_modules/
+dist/
+build/
