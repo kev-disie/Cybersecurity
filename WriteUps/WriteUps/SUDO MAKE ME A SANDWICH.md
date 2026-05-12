@@ -4,7 +4,7 @@
 Heyyyyyy! It’s M4ST3RS or just Kev,well never mind after all who care’s 🤷‍♂️ 
 Other wise guys lets go through this easy challenge on #Picogym #picoctf currently having a new look and feel Cylab Security Academy ===> [https://cylabacademy.org/]
 
-![[new look.png|592]]
+![new](Attachments/new%20look.png)
 
 
 Being my first ever write up I’ll go straight to the challenge which was tagged easy but not in that sense even for a rookie like me 😅  
