@@ -1,4 +1,6 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Obsidianite"
+  "cssTheme": "Obsidianite",
+  "textFontFamily": "DejaVu Serif",
+  "baseFontSize": 16
 }
