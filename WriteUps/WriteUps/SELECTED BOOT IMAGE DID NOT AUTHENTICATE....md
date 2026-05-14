@@ -29,6 +29,8 @@ Your PC should boot up normally.
 
 ## Step(2):
 ![](Attachments/grub.jpeg)
+
+
 If you see the error on the top left of you screen it means  the `AppImage`(a portable Linux application format)is  broken.
 
 So to bypass this grab you bootable USB stick with the ISO of your OS burned on it for this demo we will use `Kali linux ISO` 
@@ -38,12 +40,16 @@ Use the `ls ` command to list the partitions in the format `(hd0,gpt1)`
 `ls(hd0,gpt2)`
 `ls(hd30)/`
 Follow the format above to list the partitions until one shows `bin/,boot/,etc/`
-![462](Attachments/lsed.png)
+![358](Attachments/lsed.png)
+
+
 Expected output most will say :`error: unknown filesystem`
 
 Now plug your USB stick and and restart PC to enter `BIOS`settings and boot from it .
 When Kali menu appears select `Advanced options` and choose `Rescue mode`
 ![589](Attachments/rescuemode.png)
+
+
 **Select the Partition:** Use your arrow keys to highlight **`/dev/nvme0n1p2`** and press **Enter** 
 Note: On modern SSDs, `nvme0n1p2` is the same as your earlier `gpt2`) for **my setup** 
 You will see a command prompt (terminal) at the bottom
@@ -61,5 +67,7 @@ Follow along with the command as follows:
 `grub-install --target=x86_64-efi --efi-directory=/boot/efi --removable`
  and type`exit`  and press **Enter**
 ![](Attachments/debinstaller%201.png)
+
+
 `Abort the installation `
 So yeah there you go you PC is back and no data is lost🙂
