@@ -40,13 +40,16 @@ Use the `ls ` command to list the partitions in the format `(hd0,gpt1)`
 `ls(hd0,gpt2)`
 `ls(hd30)/`
 Follow the format above to list the partitions until one shows `bin/,boot/,etc/`
-![358](Attachments/lsed.png)
+![212](Attachments/lsed.png)
 
 
 Expected output most will say :`error: unknown filesystem`
 
 Now plug your USB stick and and restart PC to enter `BIOS`settings and boot from it .
 When Kali menu appears select `Advanced options` and choose `Rescue mode`
+
+
+
 ![589](Attachments/rescuemode.png)
 
 
@@ -61,13 +64,17 @@ and continue
 
 ***ERROR*** :`EFI variables cannot be set` if you encounter this error which sometimes happens in rescue mode and might mean the computer still won't "see" the new bootloader automatically.
 
-![](Attachments/osprober.png)
-
 Follow along with the command as follows:
 `grub-install --target=x86_64-efi --efi-directory=/boot/efi --removable`
  and type`exit`  and press **Enter**
+ 
+
+![](Attachments/osprober.png)
+
+`Abort the installation `
+
 ![](Attachments/debinstaller%201.png)
 
 
-`Abort the installation `
+
 So yeah there you go you PC is back and no data is lost🙂
