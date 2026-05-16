@@ -1,0 +1,12 @@
+wp-login.php?redirect_to=http%3A%2F%2F10.129.183.200%2Fwp-admin%2F&reauth=1
+
+log=C0ldd&pwd=&wp-submit=Log+In&redirect_to=http%3A%2F%2F10.129.183.200%2Fwp-admin%2F&testcookie=1
+
+PASS=9876543210
+
+cybersecurity
+c0ldd
+RmVsaWNpZGFkZXMsIHByaW1lciBuaXZlbCBjb25zZWd1aWRvIQ==
+Felicidades, primer nivel conseguido!
+wqFGZWxpY2lkYWRlcywgbcOhcXVpbmEgY29tcGxldGFkYSE=
+¡Felicidades, máquina completada!
