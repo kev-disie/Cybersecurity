@@ -1,12 +1,28 @@
-wp-login.php?redirect_to=http%3A%2F%2F10.129.183.200%2Fwp-admin%2F&reauth=1
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-05-17 21:08 +0300
+Nmap scan report for 10.129.139.161
+Host is up (0.19s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+|_http-title: ColddBox | One more machine
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+|_http-generator: WordPress 4.1.31
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.99%E=4%D=5/17%OT=80%CT=1%CU=30687%PV=Y%DS=3%DC=I%G=Y%TM=6A0A044
+OS:D%P=x86_64-pc-linux-gnu)SEQ(SP=103%GCD=1%ISR=10D%TI=Z%CI=I%II=I%TS=8)SEQ
+OS:(SP=105%GCD=1%ISR=10B%TI=Z%CI=I%II=I%TS=8)SEQ(SP=106%GCD=1%ISR=10B%TI=Z%
+OS:CI=I%II=I%TS=8)SEQ(SP=106%GCD=1%ISR=10D%TI=Z%CI=I%II=I%TS=8)SEQ(SP=108%G
+OS:CD=1%ISR=109%TI=Z%CI=I%II=I%TS=8)OPS(O1=M4E8ST11NW7%O2=M4E8ST11NW7%O3=M4
+OS:E8NNT11NW7%O4=M4E8ST11NW7%O5=M4E8ST11NW7%O6=M4E8ST11)WIN(W1=68DF%W2=68DF
+OS:%W3=68DF%W4=68DF%W5=68DF%W6=68DF)ECN(R=Y%DF=Y%T=40%W=6903%O=M4E8NNSNW7%C
+OS:C=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%
+OS:T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD
+OS:=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S
+OS:=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK
+OS:=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
 
-log=C0ldd&pwd=&wp-submit=Log+In&redirect_to=http%3A%2F%2F10.129.183.200%2Fwp-admin%2F&testcookie=1
+Network Distance: 3 hops
 
-PASS=9876543210
-
-cybersecurity
-c0ldd
-RmVsaWNpZGFkZXMsIHByaW1lciBuaXZlbCBjb25zZWd1aWRvIQ==
-Felicidades, primer nivel conseguido!
-wqFGZWxpY2lkYWRlcywgbcOhcXVpbmEgY29tcGxldGFkYSE=
-¡Felicidades, máquina completada!
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 29.08 seconds
