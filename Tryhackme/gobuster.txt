@@ -1,0 +1,27 @@
+===============================================================
+Gobuster v3.8.2
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.129.163.13
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirb/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.8.2
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+.htaccess            (Status: 403) [Size: 278]
+.hta                 (Status: 403) [Size: 278]
+.htpasswd            (Status: 403) [Size: 278]
+hidden               (Status: 301) [Size: 315] [--> http://10.129.163.13/hidden/]
+index.php            (Status: 301) [Size: 0] [--> http://10.129.163.13/]
+server-status        (Status: 403) [Size: 278]
+wp-admin             (Status: 301) [Size: 317] [--> http://10.129.163.13/wp-admin/]
+wp-content           (Status: 301) [Size: 319] [--> http://10.129.163.13/wp-content/]
+wp-includes          (Status: 301) [Size: 320] [--> http://10.129.163.13/wp-includes/]
+xmlrpc.php           (Status: 200) [Size: 42]
+===============================================================
+Finished
+===============================================================
