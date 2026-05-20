@@ -1,0 +1,1164 @@
+[1m[38;2;0;255;0m.[38;2;0;255;6m-[38;2;0;255;13m-[38;2;0;255;19m-[38;2;0;255;25m-[38;2;0;255;32m.[38;2;0;255;38m [38;2;0;255;45m.[38;2;0;255;51m-[38;2;0;255;57m.[38;2;0;255;64m [38;2;0;255;70m.[38;2;0;255;76m-[38;2;0;255;83m.[38;2;0;255;89m [38;2;0;255;96m.[38;2;0;255;102m-[38;2;0;255;108m-[38;2;0;255;115m-[38;2;0;255;121m-[38;2;0;255;127m.[38;2;0;255;134m.[38;2;0;255;140m-[38;2;0;255;147m-[38;2;0;255;153m-[38;2;0;255;159m.[38;2;0;255;166m [38;2;0;255;172m [38;2;0;255;178m.[38;2;0;255;185m-[38;2;0;255;191m-[38;2;0;255;198m-[38;2;0;255;204m-[38;2;0;255;210m.[38;2;0;255;217m [38;2;0;255;223m.[38;2;0;255;229m-[38;2;0;255;236m-[38;2;0;255;242m-[38;2;0;255;249m.[38;2;0;255;255m [38;2;0;249;255m [38;2;0;242;255m [38;2;0;236;255m.[38;2;0;230;255m-[38;2;0;223;255m-[38;2;0;217;255m.[38;2;0;210;255m [38;2;0;204;255m [38;2;0;198;255m.[38;2;0;191;255m-[38;2;0;185;255m.[38;2;0;179;255m [38;2;0;172;255m.[38;2;0;166;255m-[38;2;0;159;255m.[0m
+[38;2;0;255;0m|[38;2;0;255;6m [38;2;0;255;13m{[38;2;0;255;19m}[38;2;0;255;25m [38;2;0;255;32m [38;2;0;255;38m}[38;2;0;255;45m|[38;2;0;255;51m [38;2;0;255;57m{[38;2;0;255;64m [38;2;0;255;70m}[38;2;0;255;76m [38;2;0;255;83m|[38;2;0;255;89m{[38;2;0;255;96m [38;2;0;255;102m{[38;2;0;255;108m_[38;2;0;255;115m_[38;2;0;255;121m [38;2;0;255;127m{[38;2;0;255;134m_[38;2;0;255;140m [38;2;0;255;147m [38;2;0;255;153m [38;2;0;255;159m_[38;2;0;255;166m}[38;2;0;255;172m{[38;2;0;255;178m [38;2;0;255;185m{[38;2;0;255;191m_[38;2;0;255;198m_[38;2;0;255;204m [38;2;0;255;210m [38;2;0;255;217m/[38;2;0;255;223m [38;2;0;255;229m [38;2;0;255;236m_[38;2;0;255;242m_[38;2;0;255;249m_[38;2;0;255;255m}[38;2;0;249;255m [38;2;0;242;255m/[38;2;0;236;255m [38;2;0;230;255m{[38;2;0;223;255m}[38;2;0;217;255m [38;2;0;210;255m\[38;2;0;204;255m [38;2;0;198;255m|[38;2;0;191;255m [38;2;0;185;255m [38;2;0;179;255m`[38;2;0;172;255m|[38;2;0;166;255m [38;2;0;159;255m|[0m
+[38;2;0;255;0m|[38;2;0;255;6m [38;2;0;255;13m.[38;2;0;255;19m-[38;2;0;255;25m.[38;2;0;255;32m [38;2;0;255;38m\[38;2;0;255;45m|[38;2;0;255;51m [38;2;0;255;57m{[38;2;0;255;64m_[38;2;0;255;70m}[38;2;0;255;76m [38;2;0;255;83m|[38;2;0;255;89m.[38;2;0;255;96m-[38;2;0;255;102m.[38;2;0;255;108m_[38;2;0;255;115m}[38;2;0;255;121m [38;2;0;255;127m}[38;2;0;255;134m [38;2;0;255;140m|[38;2;0;255;147m [38;2;0;255;153m|[38;2;0;255;159m [38;2;0;255;166m [38;2;0;255;172m.[38;2;0;255;178m-[38;2;0;255;185m.[38;2;0;255;191m_[38;2;0;255;198m}[38;2;0;255;204m [38;2;0;255;210m}[38;2;0;255;217m\[38;2;0;255;223m [38;2;0;255;229m [38;2;0;255;236m [38;2;0;255;242m [38;2;0;255;249m [38;2;0;255;255m}[38;2;0;249;255m/[38;2;0;242;255m [38;2;0;236;255m [38;2;0;230;255m/[38;2;0;223;255m\[38;2;0;217;255m [38;2;0;210;255m [38;2;0;204;255m\[38;2;0;198;255m|[38;2;0;191;255m [38;2;0;185;255m|[38;2;0;179;255m\[38;2;0;172;255m [38;2;0;166;255m [38;2;0;159;255m|[0m
+[38;2;0;255;0m`[38;2;0;255;6m-[38;2;0;255;13m'[38;2;0;255;19m [38;2;0;255;25m`[38;2;0;255;32m-[38;2;0;255;38m'[38;2;0;255;45m`[38;2;0;255;51m-[38;2;0;255;57m-[38;2;0;255;64m-[38;2;0;255;70m-[38;2;0;255;76m-[38;2;0;255;83m'[38;2;0;255;89m`[38;2;0;255;96m-[38;2;0;255;102m-[38;2;0;255;108m-[38;2;0;255;115m-[38;2;0;255;121m'[38;2;0;255;127m [38;2;0;255;134m [38;2;0;255;140m`[38;2;0;255;147m-[38;2;0;255;153m'[38;2;0;255;159m [38;2;0;255;166m [38;2;0;255;172m`[38;2;0;255;178m-[38;2;0;255;185m-[38;2;0;255;191m-[38;2;0;255;198m-[38;2;0;255;204m'[38;2;0;255;210m [38;2;0;255;217m [38;2;0;255;223m`[38;2;0;255;229m-[38;2;0;255;236m-[38;2;0;255;242m-[38;2;0;255;249m'[38;2;0;255;255m [38;2;0;249;255m`[38;2;0;242;255m-[38;2;0;236;255m'[38;2;0;230;255m [38;2;0;223;255m [38;2;0;217;255m`[38;2;0;210;255m-[38;2;0;204;255m'[38;2;0;198;255m`[38;2;0;191;255m-[38;2;0;185;255m'[38;2;0;179;255m [38;2;0;172;255m`[38;2;0;166;255m-[38;2;0;159;255m'[0m
+[38;2;0;255;0mT[38;2;0;255;6mh[38;2;0;255;13me[38;2;0;255;19m [38;2;0;255;25mM[38;2;0;255;32mo[38;2;0;255;38md[38;2;0;255;45me[38;2;0;255;51mr[38;2;0;255;57mn[38;2;0;255;64m [38;2;0;255;70mD[38;2;0;255;76ma[38;2;0;255;83my[38;2;0;255;89m [38;2;0;255;96mP[38;2;0;255;102mo[38;2;0;255;108mr[38;2;0;255;115mt[38;2;0;255;121m [38;2;0;255;127mS[38;2;0;255;134mc[38;2;0;255;140ma[38;2;0;255;147mn[38;2;0;255;153mn[38;2;0;255;159me[38;2;0;255;166mr[38;2;0;255;172m.[0m[0m
+[1m[38;2;255;255;0m_[38;2;249;255;0m_[38;2;242;255;0m_[38;2;236;255;0m_[38;2;230;255;0m_[38;2;223;255;0m_[38;2;217;255;0m_[38;2;210;255;0m_[38;2;204;255;0m_[38;2;198;255;0m_[38;2;191;255;0m_[38;2;185;255;0m_[38;2;179;255;0m_[38;2;172;255;0m_[38;2;166;255;0m_[38;2;159;255;0m_[38;2;153;255;0m_[38;2;147;255;0m_[38;2;140;255;0m_[38;2;134;255;0m_[38;2;128;255;0m_[38;2;121;255;0m_[38;2;115;255;0m_[38;2;108;255;0m_[38;2;102;255;0m_[38;2;96;255;0m_[38;2;89;255;0m_[38;2;83;255;0m_[38;2;77;255;0m_[38;2;70;255;0m_[38;2;64;255;0m_[38;2;57;255;0m_[38;2;51;255;0m_[38;2;45;255;0m_[38;2;38;255;0m_[38;2;32;255;0m_[38;2;26;255;0m_[38;2;19;255;0m_[38;2;13;255;0m_[38;2;6;255;0m_[0m
+[38;2;255;255;0m:[38;2;249;255;0m [38;2;242;255;0mh[38;2;236;255;0mt[38;2;230;255;0mt[38;2;223;255;0mp[38;2;217;255;0m:[38;2;210;255;0m/[38;2;204;255;0m/[38;2;198;255;0md[38;2;191;255;0mi[38;2;185;255;0ms[38;2;179;255;0mc[38;2;172;255;0mo[38;2;166;255;0mr[38;2;159;255;0md[38;2;153;255;0m.[38;2;147;255;0ms[38;2;140;255;0mk[38;2;134;255;0me[38;2;128;255;0mr[38;2;121;255;0mr[38;2;115;255;0mi[38;2;108;255;0mt[38;2;102;255;0mt[38;2;96;255;0m.[38;2;89;255;0mb[38;2;83;255;0ml[38;2;77;255;0mo[38;2;70;255;0mg[38;2;64;255;0m [38;2;57;255;0m [38;2;51;255;0m [38;2;45;255;0m [38;2;38;255;0m [38;2;32;255;0m [38;2;26;255;0m [38;2;19;255;0m [38;2;13;255;0m [38;2;6;255;0m:[0m
+[38;2;255;255;0m:[38;2;249;255;0m [38;2;242;255;0mh[38;2;236;255;0mt[38;2;230;255;0mt[38;2;223;255;0mp[38;2;217;255;0ms[38;2;210;255;0m:[38;2;204;255;0m/[38;2;198;255;0m/[38;2;191;255;0mg[38;2;185;255;0mi[38;2;179;255;0mt[38;2;172;255;0mh[38;2;166;255;0mu[38;2;159;255;0mb[38;2;153;255;0m.[38;2;147;255;0mc[38;2;140;255;0mo[38;2;134;255;0mm[38;2;128;255;0m/[38;2;121;255;0mR[38;2;115;255;0mu[38;2;108;255;0ms[38;2;102;255;0mt[38;2;96;255;0mS[38;2;89;255;0mc[38;2;83;255;0ma[38;2;77;255;0mn[38;2;70;255;0m/[38;2;64;255;0mR[38;2;57;255;0mu[38;2;51;255;0ms[38;2;45;255;0mt[38;2;38;255;0mS[38;2;32;255;0mc[38;2;26;255;0ma[38;2;19;255;0mn[38;2;13;255;0m [38;2;6;255;0m:[0m
+[38;2;255;255;0m [38;2;249;255;0m-[38;2;242;255;0m-[38;2;236;255;0m-[38;2;230;255;0m-[38;2;223;255;0m-[38;2;217;255;0m-[38;2;210;255;0m-[38;2;204;255;0m-[38;2;198;255;0m-[38;2;191;255;0m-[38;2;185;255;0m-[38;2;179;255;0m-[38;2;172;255;0m-[38;2;166;255;0m-[38;2;159;255;0m-[38;2;153;255;0m-[38;2;147;255;0m-[38;2;140;255;0m-[38;2;134;255;0m-[38;2;128;255;0m-[38;2;121;255;0m-[38;2;115;255;0m-[38;2;108;255;0m-[38;2;102;255;0m-[38;2;96;255;0m-[38;2;89;255;0m-[38;2;83;255;0m-[38;2;77;255;0m-[38;2;70;255;0m-[38;2;64;255;0m-[38;2;57;255;0m-[38;2;51;255;0m-[38;2;45;255;0m-[38;2;38;255;0m-[38;2;32;255;0m-[38;2;26;255;0m-[38;2;19;255;0m-[38;2;13;255;0m-[0m[0m
+Real hackers hack time ⌛
+
+[1;34m[~][0m The config file is expected to be at "/home/kev/.rustscan.toml"
+[1;34m[~][0m Automatically increasing ulimit value to 5000.
+Open 154.57.164.78:53
+Open 154.57.164.78:30021
+Open 154.57.164.78:30097
+Open 154.57.164.78:30095
+Open 154.57.164.78:30091
+Open 154.57.164.78:30101
+Open 154.57.164.78:30100
+Open 154.57.164.78:30126
+Open 154.57.164.78:30111
+Open 154.57.164.78:30120
+Open 154.57.164.78:30143
+Open 154.57.164.78:30155
+Open 154.57.164.78:30154
+Open 154.57.164.78:30153
+Open 154.57.164.78:30168
+Open 154.57.164.78:30226
+Open 154.57.164.78:30222
+Open 154.57.164.78:30197
+Open 154.57.164.78:30220
+Open 154.57.164.78:30202
+Open 154.57.164.78:30249
+Open 154.57.164.78:30248
+Open 154.57.164.78:30242
+Open 154.57.164.78:30261
+Open 154.57.164.78:30246
+Open 154.57.164.78:30247
+Open 154.57.164.78:30253
+Open 154.57.164.78:30245
+Open 154.57.164.78:30219
+Open 154.57.164.78:30256
+Open 154.57.164.78:30274
+Open 154.57.164.78:30278
+Open 154.57.164.78:30276
+Open 154.57.164.78:30288
+Open 154.57.164.78:30289
+Open 154.57.164.78:30310
+Open 154.57.164.78:30324
+Open 154.57.164.78:30334
+Open 154.57.164.78:30352
+Open 154.57.164.78:30360
+Open 154.57.164.78:30349
+Open 154.57.164.78:30369
+Open 154.57.164.78:30382
+Open 154.57.164.78:30395
+Open 154.57.164.78:30391
+Open 154.57.164.78:30397
+Open 154.57.164.78:30414
+Open 154.57.164.78:30415
+Open 154.57.164.78:30418
+Open 154.57.164.78:30419
+Open 154.57.164.78:30426
+Open 154.57.164.78:30434
+Open 154.57.164.78:30429
+Open 154.57.164.78:30424
+Open 154.57.164.78:30422
+Open 154.57.164.78:30435
+Open 154.57.164.78:30439
+Open 154.57.164.78:30438
+Open 154.57.164.78:30472
+Open 154.57.164.78:30492
+Open 154.57.164.78:30502
+Open 154.57.164.78:30503
+Open 154.57.164.78:30501
+Open 154.57.164.78:30517
+Open 154.57.164.78:30507
+Open 154.57.164.78:30500
+Open 154.57.164.78:30527
+Open 154.57.164.78:30543
+Open 154.57.164.78:30566
+Open 154.57.164.78:30557
+Open 154.57.164.78:30565
+Open 154.57.164.78:30559
+Open 154.57.164.78:30547
+Open 154.57.164.78:30589
+Open 154.57.164.78:30571
+Open 154.57.164.78:30575
+Open 154.57.164.78:30586
+Open 154.57.164.78:30594
+Open 154.57.164.78:30595
+Open 154.57.164.78:30593
+Open 154.57.164.78:30608
+Open 154.57.164.78:30612
+Open 154.57.164.78:30606
+Open 154.57.164.78:30611
+Open 154.57.164.78:30617
+Open 154.57.164.78:30628
+Open 154.57.164.78:30650
+Open 154.57.164.78:30680
+Open 154.57.164.78:30676
+Open 154.57.164.78:30675
+Open 154.57.164.78:30665
+Open 154.57.164.78:30682
+Open 154.57.164.78:30677
+Open 154.57.164.78:30678
+Open 154.57.164.78:30712
+Open 154.57.164.78:30753
+Open 154.57.164.78:30767
+Open 154.57.164.78:30766
+Open 154.57.164.78:30782
+Open 154.57.164.78:30810
+Open 154.57.164.78:30803
+Open 154.57.164.78:30860
+Open 154.57.164.78:30875
+Open 154.57.164.78:30856
+Open 154.57.164.78:30886
+Open 154.57.164.78:30899
+Open 154.57.164.78:30904
+Open 154.57.164.78:30925
+Open 154.57.164.78:30920
+Open 154.57.164.78:30948
+Open 154.57.164.78:30947
+Open 154.57.164.78:30952
+Open 154.57.164.78:30955
+Open 154.57.164.78:30942
+Open 154.57.164.78:30956
+Open 154.57.164.78:30945
+Open 154.57.164.78:30940
+Open 154.57.164.78:30975
+Open 154.57.164.78:30971
+Open 154.57.164.78:30965
+Open 154.57.164.78:30987
+Open 154.57.164.78:30998
+Open 154.57.164.78:31028
+Open 154.57.164.78:31041
+Open 154.57.164.78:31054
+Open 154.57.164.78:31040
+Open 154.57.164.78:31046
+Open 154.57.164.78:31057
+Open 154.57.164.78:31067
+Open 154.57.164.78:31075
+Open 154.57.164.78:31082
+Open 154.57.164.78:31092
+Open 154.57.164.78:31119
+Open 154.57.164.78:31121
+Open 154.57.164.78:31123
+Open 154.57.164.78:31122
+Open 154.57.164.78:31156
+Open 154.57.164.78:31130
+Open 154.57.164.78:31132
+Open 154.57.164.78:31148
+Open 154.57.164.78:31174
+Open 154.57.164.78:31211
+Open 154.57.164.78:31184
+Open 154.57.164.78:31192
+Open 154.57.164.78:31186
+Open 154.57.164.78:31172
+Open 154.57.164.78:31185
+Open 154.57.164.78:31214
+Open 154.57.164.78:31197
+Open 154.57.164.78:31248
+Open 154.57.164.78:31268
+Open 154.57.164.78:31229
+Open 154.57.164.78:31207
+Open 154.57.164.78:31237
+Open 154.57.164.78:31226
+Open 154.57.164.78:31250
+Open 154.57.164.78:31269
+Open 154.57.164.78:31283
+Open 154.57.164.78:31270
+Open 154.57.164.78:31266
+Open 154.57.164.78:31286
+Open 154.57.164.78:31298
+Open 154.57.164.78:31310
+Open 154.57.164.78:31333
+Open 154.57.164.78:31321
+Open 154.57.164.78:31329
+Open 154.57.164.78:31297
+Open 154.57.164.78:31305
+Open 154.57.164.78:31311
+Open 154.57.164.78:31303
+Open 154.57.164.78:31320
+Open 154.57.164.78:31334
+Open 154.57.164.78:31355
+Open 154.57.164.78:31344
+Open 154.57.164.78:31368
+Open 154.57.164.78:31354
+Open 154.57.164.78:31346
+Open 154.57.164.78:31380
+Open 154.57.164.78:31364
+Open 154.57.164.78:31386
+Open 154.57.164.78:31384
+Open 154.57.164.78:31422
+Open 154.57.164.78:31393
+Open 154.57.164.78:31361
+Open 154.57.164.78:31413
+Open 154.57.164.78:31417
+Open 154.57.164.78:31440
+Open 154.57.164.78:31444
+Open 154.57.164.78:31432
+Open 154.57.164.78:31438
+Open 154.57.164.78:31449
+Open 154.57.164.78:31463
+Open 154.57.164.78:31448
+Open 154.57.164.78:31502
+Open 154.57.164.78:31495
+Open 154.57.164.78:31485
+Open 154.57.164.78:31541
+Open 154.57.164.78:31468
+Open 154.57.164.78:31528
+Open 154.57.164.78:31575
+Open 154.57.164.78:31457
+Open 154.57.164.78:31591
+Open 154.57.164.78:31600
+Open 154.57.164.78:31607
+Open 154.57.164.78:31598
+Open 154.57.164.78:31608
+Open 154.57.164.78:31628
+Open 154.57.164.78:31622
+Open 154.57.164.78:31626
+Open 154.57.164.78:31617
+Open 154.57.164.78:31645
+Open 154.57.164.78:31647
+Open 154.57.164.78:31663
+Open 154.57.164.78:31669
+Open 154.57.164.78:31671
+Open 154.57.164.78:31684
+Open 154.57.164.78:31685
+Open 154.57.164.78:31689
+Open 154.57.164.78:31690
+Open 154.57.164.78:31703
+Open 154.57.164.78:31678
+Open 154.57.164.78:31708
+Open 154.57.164.78:31701
+Open 154.57.164.78:31698
+Open 154.57.164.78:31704
+Open 154.57.164.78:31727
+Open 154.57.164.78:31713
+Open 154.57.164.78:31723
+Open 154.57.164.78:31719
+Open 154.57.164.78:31738
+Open 154.57.164.78:31746
+Open 154.57.164.78:31778
+Open 154.57.164.78:31770
+Open 154.57.164.78:31769
+Open 154.57.164.78:31777
+Open 154.57.164.78:31772
+Open 154.57.164.78:31781
+Open 154.57.164.78:31795
+Open 154.57.164.78:31783
+Open 154.57.164.78:31810
+Open 154.57.164.78:31846
+Open 154.57.164.78:31824
+Open 154.57.164.78:31843
+Open 154.57.164.78:31864
+Open 154.57.164.78:31833
+Open 154.57.164.78:31866
+Open 154.57.164.78:31917
+Open 154.57.164.78:31885
+Open 154.57.164.78:31918
+Open 154.57.164.78:31943
+Open 154.57.164.78:31919
+Open 154.57.164.78:31942
+Open 154.57.164.78:31950
+Open 154.57.164.78:31946
+Open 154.57.164.78:31948
+Open 154.57.164.78:31967
+Open 154.57.164.78:31972
+Open 154.57.164.78:31979
+Open 154.57.164.78:31993
+Open 154.57.164.78:31986
+Open 154.57.164.78:31989
+Open 154.57.164.78:32003
+Open 154.57.164.78:32006
+Open 154.57.164.78:32009
+Open 154.57.164.78:32005
+Open 154.57.164.78:32008
+Open 154.57.164.78:32028
+Open 154.57.164.78:32029
+Open 154.57.164.78:32033
+Open 154.57.164.78:32035
+Open 154.57.164.78:32051
+Open 154.57.164.78:32053
+Open 154.57.164.78:32057
+Open 154.57.164.78:32072
+Open 154.57.164.78:32077
+Open 154.57.164.78:32080
+Open 154.57.164.78:32085
+Open 154.57.164.78:32081
+Open 154.57.164.78:32086
+Open 154.57.164.78:32082
+Open 154.57.164.78:32091
+Open 154.57.164.78:32107
+Open 154.57.164.78:32127
+Open 154.57.164.78:32153
+Open 154.57.164.78:32155
+Open 154.57.164.78:32163
+Open 154.57.164.78:32162
+Open 154.57.164.78:32161
+Open 154.57.164.78:32180
+Open 154.57.164.78:32181
+Open 154.57.164.78:32194
+Open 154.57.164.78:32184
+Open 154.57.164.78:32209
+Open 154.57.164.78:32203
+Open 154.57.164.78:32240
+Open 154.57.164.78:32234
+Open 154.57.164.78:32236
+Open 154.57.164.78:32245
+Open 154.57.164.78:32272
+Open 154.57.164.78:32269
+Open 154.57.164.78:32270
+Open 154.57.164.78:32275
+Open 154.57.164.78:32286
+Open 154.57.164.78:32302
+Open 154.57.164.78:32308
+Open 154.57.164.78:32317
+Open 154.57.164.78:32323
+Open 154.57.164.78:32338
+Open 154.57.164.78:32345
+Open 154.57.164.78:32339
+Open 154.57.164.78:32328
+Open 154.57.164.78:32354
+Open 154.57.164.78:32340
+Open 154.57.164.78:32348
+Open 154.57.164.78:32361
+Open 154.57.164.78:32364
+Open 154.57.164.78:32370
+Open 154.57.164.78:32380
+Open 154.57.164.78:32381
+Open 154.57.164.78:32398
+Open 154.57.164.78:32410
+Open 154.57.164.78:32408
+Open 154.57.164.78:32417
+Open 154.57.164.78:32423
+Open 154.57.164.78:32464
+Open 154.57.164.78:32451
+Open 154.57.164.78:32441
+Open 154.57.164.78:32476
+Open 154.57.164.78:32465
+Open 154.57.164.78:32477
+Open 154.57.164.78:32498
+Open 154.57.164.78:32497
+Open 154.57.164.78:32512
+Open 154.57.164.78:32510
+Open 154.57.164.78:32506
+Open 154.57.164.78:32507
+Open 154.57.164.78:32518
+Open 154.57.164.78:32524
+Open 154.57.164.78:32538
+Open 154.57.164.78:32535
+Open 154.57.164.78:32536
+Open 154.57.164.78:32555
+Open 154.57.164.78:32548
+Open 154.57.164.78:32557
+Open 154.57.164.78:32566
+Open 154.57.164.78:32575
+Open 154.57.164.78:32572
+Open 154.57.164.78:32577
+Open 154.57.164.78:32578
+Open 154.57.164.78:32608
+Open 154.57.164.78:32602
+Open 154.57.164.78:32615
+Open 154.57.164.78:32617
+Open 154.57.164.78:32603
+Open 154.57.164.78:32604
+Open 154.57.164.78:32632
+Open 154.57.164.78:32631
+Open 154.57.164.78:32637
+Open 154.57.164.78:32669
+Open 154.57.164.78:32658
+Open 154.57.164.78:32660
+Open 154.57.164.78:32685
+Open 154.57.164.78:32706
+Open 154.57.164.78:32730
+Open 154.57.164.78:32692
+Open 154.57.164.78:32722
+Open 154.57.164.78:32724
+Open 154.57.164.78:32723
+Open 154.57.164.78:32763
+Open 154.57.164.78:32759
+Open 154.57.164.78:32743
+Open 154.57.164.78:32735
+Open 154.57.164.78:32764
+Open 154.57.164.78:32765
+Open 154.57.164.78:32714
+[1;34m[~][0m Starting Script(s)
+[1;34m[~][0m Starting Nmap 7.99 ( https://nmap.org ) at 2026-05-20 06:41 +0300
+Initiating Ping Scan at 06:41
+Scanning 154.57.164.78 [4 ports]
+Completed Ping Scan at 06:41, 0.15s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 06:41
+Completed Parallel DNS resolution of 1 host. at 06:41, 2.06s elapsed
+DNS resolution of 1 IPs took 2.06s. Mode: Async [#: 1, OK: 1, NX: 0, DR: 0, SF: 0, TR: 2, CN: 0]
+Initiating SYN Stealth Scan at 06:41
+Scanning 154-57-164-78.static.isp.htb.systems (154.57.164.78) [375 ports]
+Discovered open port 53/tcp on 154.57.164.78
+Discovered open port 31723/tcp on 154.57.164.78
+Discovered open port 30197/tcp on 154.57.164.78
+Discovered open port 32566/tcp on 154.57.164.78
+Discovered open port 32180/tcp on 154.57.164.78
+Discovered open port 32161/tcp on 154.57.164.78
+Discovered open port 30220/tcp on 154.57.164.78
+Discovered open port 31386/tcp on 154.57.164.78
+Discovered open port 32009/tcp on 154.57.164.78
+Discovered open port 31298/tcp on 154.57.164.78
+Discovered open port 32317/tcp on 154.57.164.78
+Discovered open port 31918/tcp on 154.57.164.78
+Discovered open port 31918/tcp on 154.57.164.78
+Discovered open port 30547/tcp on 154.57.164.78
+Discovered open port 32507/tcp on 154.57.164.78
+Discovered open port 30435/tcp on 154.57.164.78
+Discovered open port 31211/tcp on 154.57.164.78
+Discovered open port 30419/tcp on 154.57.164.78
+Discovered open port 30091/tcp on 154.57.164.78
+Discovered open port 32028/tcp on 154.57.164.78
+Discovered open port 32317/tcp on 154.57.164.78
+Discovered open port 32354/tcp on 154.57.164.78
+Discovered open port 30856/tcp on 154.57.164.78
+Discovered open port 31778/tcp on 154.57.164.78
+Discovered open port 32398/tcp on 154.57.164.78
+Discovered open port 32345/tcp on 154.57.164.78
+Discovered open port 32604/tcp on 154.57.164.78
+Discovered open port 32057/tcp on 154.57.164.78
+Discovered open port 32162/tcp on 154.57.164.78
+Discovered open port 31054/tcp on 154.57.164.78
+Discovered open port 30095/tcp on 154.57.164.78
+Discovered open port 30245/tcp on 154.57.164.78
+Discovered open port 31685/tcp on 154.57.164.78
+Discovered open port 30100/tcp on 154.57.164.78
+Discovered open port 31647/tcp on 154.57.164.78
+Discovered open port 31075/tcp on 154.57.164.78
+Discovered open port 30202/tcp on 154.57.164.78
+Discovered open port 31355/tcp on 154.57.164.78
+Discovered open port 31057/tcp on 154.57.164.78
+Discovered open port 30414/tcp on 154.57.164.78
+Discovered open port 30955/tcp on 154.57.164.78
+Discovered open port 30680/tcp on 154.57.164.78
+Discovered open port 32764/tcp on 154.57.164.78
+Discovered open port 32107/tcp on 154.57.164.78
+Discovered open port 32053/tcp on 154.57.164.78
+Discovered open port 31266/tcp on 154.57.164.78
+Discovered open port 30595/tcp on 154.57.164.78
+Discovered open port 30566/tcp on 154.57.164.78
+Discovered open port 32339/tcp on 154.57.164.78
+Discovered open port 31617/tcp on 154.57.164.78
+Discovered open port 31950/tcp on 154.57.164.78
+Discovered open port 32408/tcp on 154.57.164.78
+Discovered open port 32181/tcp on 154.57.164.78
+Discovered open port 31457/tcp on 154.57.164.78
+Discovered open port 31943/tcp on 154.57.164.78
+Discovered open port 31885/tcp on 154.57.164.78
+Discovered open port 30712/tcp on 154.57.164.78
+Discovered open port 31303/tcp on 154.57.164.78
+Discovered open port 32381/tcp on 154.57.164.78
+Discovered open port 32003/tcp on 154.57.164.78
+Discovered open port 32153/tcp on 154.57.164.78
+Discovered open port 30942/tcp on 154.57.164.78
+Discovered open port 31448/tcp on 154.57.164.78
+Discovered open port 30097/tcp on 154.57.164.78
+Discovered open port 31946/tcp on 154.57.164.78
+Discovered open port 31575/tcp on 154.57.164.78
+Discovered open port 31413/tcp on 154.57.164.78
+Discovered open port 31485/tcp on 154.57.164.78
+Discovered open port 32245/tcp on 154.57.164.78
+Discovered open port 31993/tcp on 154.57.164.78
+Discovered open port 30391/tcp on 154.57.164.78
+Discovered open port 30594/tcp on 154.57.164.78
+Discovered open port 31329/tcp on 154.57.164.78
+Discovered open port 31186/tcp on 154.57.164.78
+Discovered open port 32085/tcp on 154.57.164.78
+Discovered open port 32085/tcp on 154.57.164.78
+Discovered open port 30566/tcp on 154.57.164.78
+Discovered open port 32339/tcp on 154.57.164.78
+Discovered open port 30503/tcp on 154.57.164.78
+Discovered open port 30940/tcp on 154.57.164.78
+Discovered open port 32518/tcp on 154.57.164.78
+Discovered open port 31824/tcp on 154.57.164.78
+Discovered open port 30472/tcp on 154.57.164.78
+Discovered open port 31417/tcp on 154.57.164.78
+Discovered open port 31119/tcp on 154.57.164.78
+Discovered open port 31269/tcp on 154.57.164.78
+Discovered open port 30492/tcp on 154.57.164.78
+Discovered open port 31214/tcp on 154.57.164.78
+Discovered open port 30256/tcp on 154.57.164.78
+Discovered open port 30289/tcp on 154.57.164.78
+Discovered open port 30650/tcp on 154.57.164.78
+Discovered open port 31777/tcp on 154.57.164.78
+Discovered open port 31948/tcp on 154.57.164.78
+Discovered open port 32006/tcp on 154.57.164.78
+Discovered open port 32572/tcp on 154.57.164.78
+Discovered open port 32072/tcp on 154.57.164.78
+Discovered open port 31468/tcp on 154.57.164.78
+Discovered open port 32602/tcp on 154.57.164.78
+Discovered open port 30349/tcp on 154.57.164.78
+Discovered open port 32340/tcp on 154.57.164.78
+Discovered open port 30288/tcp on 154.57.164.78
+Discovered open port 32575/tcp on 154.57.164.78
+Discovered open port 30782/tcp on 154.57.164.78
+Discovered open port 31607/tcp on 154.57.164.78
+Discovered open port 31449/tcp on 154.57.164.78
+Discovered open port 31422/tcp on 154.57.164.78
+Discovered open port 30559/tcp on 154.57.164.78
+Discovered open port 32476/tcp on 154.57.164.78
+Discovered open port 31361/tcp on 154.57.164.78
+Discovered open port 31270/tcp on 154.57.164.78
+Discovered open port 32510/tcp on 154.57.164.78
+Discovered open port 30120/tcp on 154.57.164.78
+Discovered open port 30382/tcp on 154.57.164.78
+Discovered open port 31344/tcp on 154.57.164.78
+Discovered open port 32512/tcp on 154.57.164.78
+Discovered open port 31311/tcp on 154.57.164.78
+Discovered open port 30415/tcp on 154.57.164.78
+Discovered open port 32637/tcp on 154.57.164.78
+Discovered open port 30352/tcp on 154.57.164.78
+Discovered open port 31738/tcp on 154.57.164.78
+Discovered open port 32548/tcp on 154.57.164.78
+Discovered open port 32338/tcp on 154.57.164.78
+Discovered open port 31833/tcp on 154.57.164.78
+Discovered open port 31833/tcp on 154.57.164.78
+Discovered open port 30249/tcp on 154.57.164.78
+Discovered open port 32410/tcp on 154.57.164.78
+Discovered open port 32577/tcp on 154.57.164.78
+Discovered open port 30925/tcp on 154.57.164.78
+Discovered open port 31192/tcp on 154.57.164.78
+Discovered open port 32608/tcp on 154.57.164.78
+Discovered open port 31783/tcp on 154.57.164.78
+Discovered open port 32008/tcp on 154.57.164.78
+Discovered open port 30665/tcp on 154.57.164.78
+Discovered open port 30111/tcp on 154.57.164.78
+Discovered open port 30589/tcp on 154.57.164.78
+Discovered open port 31608/tcp on 154.57.164.78
+Discovered open port 30242/tcp on 154.57.164.78
+Discovered open port 31123/tcp on 154.57.164.78
+Discovered open port 31663/tcp on 154.57.164.78
+Discovered open port 30899/tcp on 154.57.164.78
+Discovered open port 31333/tcp on 154.57.164.78
+Discovered open port 31810/tcp on 154.57.164.78
+Discovered open port 31364/tcp on 154.57.164.78
+Discovered open port 31156/tcp on 154.57.164.78
+Discovered open port 32632/tcp on 154.57.164.78
+Discovered open port 32441/tcp on 154.57.164.78
+Discovered open port 31432/tcp on 154.57.164.78
+Discovered open port 32234/tcp on 154.57.164.78
+Discovered open port 30987/tcp on 154.57.164.78
+Discovered open port 31770/tcp on 154.57.164.78
+Discovered open port 32091/tcp on 154.57.164.78
+Discovered open port 32417/tcp on 154.57.164.78
+Discovered open port 31229/tcp on 154.57.164.78
+Discovered open port 32005/tcp on 154.57.164.78
+Discovered open port 32477/tcp on 154.57.164.78
+Discovered open port 32348/tcp on 154.57.164.78
+Discovered open port 31598/tcp on 154.57.164.78
+Discovered open port 31727/tcp on 154.57.164.78
+Discovered open port 31380/tcp on 154.57.164.78
+Discovered open port 30424/tcp on 154.57.164.78
+Discovered open port 32557/tcp on 154.57.164.78
+Discovered open port 30608/tcp on 154.57.164.78
+Discovered open port 31628/tcp on 154.57.164.78
+Discovered open port 31979/tcp on 154.57.164.78
+Discovered open port 32155/tcp on 154.57.164.78
+Discovered open port 32617/tcp on 154.57.164.78
+Discovered open port 32631/tcp on 154.57.164.78
+Discovered open port 32240/tcp on 154.57.164.78
+Discovered open port 30971/tcp on 154.57.164.78
+Discovered open port 31067/tcp on 154.57.164.78
+Discovered open port 30021/tcp on 154.57.164.78
+Discovered open port 31864/tcp on 154.57.164.78
+Discovered open port 32615/tcp on 154.57.164.78
+Discovered open port 30593/tcp on 154.57.164.78
+Discovered open port 30261/tcp on 154.57.164.78
+Discovered open port 30438/tcp on 154.57.164.78
+Discovered open port 31591/tcp on 154.57.164.78
+Discovered open port 30274/tcp on 154.57.164.78
+Discovered open port 30860/tcp on 154.57.164.78
+Discovered open port 32361/tcp on 154.57.164.78
+Discovered open port 30422/tcp on 154.57.164.78
+Discovered open port 30507/tcp on 154.57.164.78
+Discovered open port 32743/tcp on 154.57.164.78
+Discovered open port 31248/tcp on 154.57.164.78
+Discovered open port 30998/tcp on 154.57.164.78
+Discovered open port 30126/tcp on 154.57.164.78
+Discovered open port 30810/tcp on 154.57.164.78
+Discovered open port 31226/tcp on 154.57.164.78
+Discovered open port 31917/tcp on 154.57.164.78
+Discovered open port 32524/tcp on 154.57.164.78
+Discovered open port 30612/tcp on 154.57.164.78
+Discovered open port 32465/tcp on 154.57.164.78
+Discovered open port 32364/tcp on 154.57.164.78
+Discovered open port 31622/tcp on 154.57.164.78
+Discovered open port 31846/tcp on 154.57.164.78
+Discovered open port 32086/tcp on 154.57.164.78
+Discovered open port 30886/tcp on 154.57.164.78
+Discovered open port 32380/tcp on 154.57.164.78
+Discovered open port 31626/tcp on 154.57.164.78
+Discovered open port 30426/tcp on 154.57.164.78
+Discovered open port 31268/tcp on 154.57.164.78
+Discovered open port 32538/tcp on 154.57.164.78
+Discovered open port 31746/tcp on 154.57.164.78
+Discovered open port 32272/tcp on 154.57.164.78
+Discovered open port 30219/tcp on 154.57.164.78
+Discovered open port 30276/tcp on 154.57.164.78
+Discovered open port 32194/tcp on 154.57.164.78
+Discovered open port 32082/tcp on 154.57.164.78
+Discovered open port 31678/tcp on 154.57.164.78
+Discovered open port 32730/tcp on 154.57.164.78
+Discovered open port 30565/tcp on 154.57.164.78
+Discovered open port 31040/tcp on 154.57.164.78
+Discovered open port 31028/tcp on 154.57.164.78
+Discovered open port 30247/tcp on 154.57.164.78
+Discovered open port 31781/tcp on 154.57.164.78
+Discovered open port 32497/tcp on 154.57.164.78
+Discovered open port 32080/tcp on 154.57.164.78
+Discovered open port 30155/tcp on 154.57.164.78
+Discovered open port 31286/tcp on 154.57.164.78
+Discovered open port 31919/tcp on 154.57.164.78
+Discovered open port 31972/tcp on 154.57.164.78
+Discovered open port 32184/tcp on 154.57.164.78
+Discovered open port 31310/tcp on 154.57.164.78
+Discovered open port 32706/tcp on 154.57.164.78
+Discovered open port 30517/tcp on 154.57.164.78
+Discovered open port 32603/tcp on 154.57.164.78
+Discovered open port 31354/tcp on 154.57.164.78
+Discovered open port 30153/tcp on 154.57.164.78
+Discovered open port 31690/tcp on 154.57.164.78
+Discovered open port 31297/tcp on 154.57.164.78
+Discovered open port 31122/tcp on 154.57.164.78
+Discovered open port 30101/tcp on 154.57.164.78
+Discovered open port 31502/tcp on 154.57.164.78
+Discovered open port 31440/tcp on 154.57.164.78
+Discovered open port 30397/tcp on 154.57.164.78
+Discovered open port 32308/tcp on 154.57.164.78
+Discovered open port 32464/tcp on 154.57.164.78
+Discovered open port 32077/tcp on 154.57.164.78
+Discovered open port 30904/tcp on 154.57.164.78
+Discovered open port 31334/tcp on 154.57.164.78
+Discovered open port 31701/tcp on 154.57.164.78
+Discovered open port 32692/tcp on 154.57.164.78
+Discovered open port 32685/tcp on 154.57.164.78
+Discovered open port 30418/tcp on 154.57.164.78
+Discovered open port 31082/tcp on 154.57.164.78
+Discovered open port 32555/tcp on 154.57.164.78
+Discovered open port 30143/tcp on 154.57.164.78
+Discovered open port 30557/tcp on 154.57.164.78
+Discovered open port 30753/tcp on 154.57.164.78
+Discovered open port 32498/tcp on 154.57.164.78
+Discovered open port 31184/tcp on 154.57.164.78
+Discovered open port 30678/tcp on 154.57.164.78
+Discovered open port 30502/tcp on 154.57.164.78
+Discovered open port 30395/tcp on 154.57.164.78
+Discovered open port 30246/tcp on 154.57.164.78
+Discovered open port 32328/tcp on 154.57.164.78
+Discovered open port 31368/tcp on 154.57.164.78
+Discovered open port 32578/tcp on 154.57.164.78
+Discovered open port 30501/tcp on 154.57.164.78
+Discovered open port 32081/tcp on 154.57.164.78
+Discovered open port 31438/tcp on 154.57.164.78
+Discovered open port 32033/tcp on 154.57.164.78
+Discovered open port 31207/tcp on 154.57.164.78
+Discovered open port 32286/tcp on 154.57.164.78
+Discovered open port 30310/tcp on 154.57.164.78
+Discovered open port 31541/tcp on 154.57.164.78
+Discovered open port 30947/tcp on 154.57.164.78
+Discovered open port 31708/tcp on 154.57.164.78
+Discovered open port 30803/tcp on 154.57.164.78
+Discovered open port 30920/tcp on 154.57.164.78
+Discovered open port 32723/tcp on 154.57.164.78
+Discovered open port 30767/tcp on 154.57.164.78
+Discovered open port 31185/tcp on 154.57.164.78
+Discovered open port 31772/tcp on 154.57.164.78
+Discovered open port 32051/tcp on 154.57.164.78
+Discovered open port 32275/tcp on 154.57.164.78
+Discovered open port 30222/tcp on 154.57.164.78
+Discovered open port 30766/tcp on 154.57.164.78
+Discovered open port 31132/tcp on 154.57.164.78
+Discovered open port 32035/tcp on 154.57.164.78
+Discovered open port 30248/tcp on 154.57.164.78
+Discovered open port 32724/tcp on 154.57.164.78
+Discovered open port 31384/tcp on 154.57.164.78
+Discovered open port 30543/tcp on 154.57.164.78
+Discovered open port 32269/tcp on 154.57.164.78
+Discovered open port 30360/tcp on 154.57.164.78
+Discovered open port 30952/tcp on 154.57.164.78
+Discovered open port 31967/tcp on 154.57.164.78
+Discovered open port 32203/tcp on 154.57.164.78
+Discovered open port 30611/tcp on 154.57.164.78
+Discovered open port 31795/tcp on 154.57.164.78
+Discovered open port 30677/tcp on 154.57.164.78
+Discovered open port 31320/tcp on 154.57.164.78
+Discovered open port 31698/tcp on 154.57.164.78
+Discovered open port 31041/tcp on 154.57.164.78
+Discovered open port 31174/tcp on 154.57.164.78
+Discovered open port 30324/tcp on 154.57.164.78
+Discovered open port 30527/tcp on 154.57.164.78
+Discovered open port 30334/tcp on 154.57.164.78
+Discovered open port 32763/tcp on 154.57.164.78
+Discovered open port 30154/tcp on 154.57.164.78
+Discovered open port 31769/tcp on 154.57.164.78
+Discovered open port 31250/tcp on 154.57.164.78
+Discovered open port 31986/tcp on 154.57.164.78
+Discovered open port 30675/tcp on 154.57.164.78
+Discovered open port 30628/tcp on 154.57.164.78
+Discovered open port 31237/tcp on 154.57.164.78
+Discovered open port 31046/tcp on 154.57.164.78
+Discovered open port 31528/tcp on 154.57.164.78
+Discovered open port 31092/tcp on 154.57.164.78
+Discovered open port 30500/tcp on 154.57.164.78
+Discovered open port 30278/tcp on 154.57.164.78
+Discovered open port 31942/tcp on 154.57.164.78
+Discovered open port 32029/tcp on 154.57.164.78
+Discovered open port 32660/tcp on 154.57.164.78
+Discovered open port 31843/tcp on 154.57.164.78
+Discovered open port 32370/tcp on 154.57.164.78
+Discovered open port 31713/tcp on 154.57.164.78
+Discovered open port 30434/tcp on 154.57.164.78
+Discovered open port 31283/tcp on 154.57.164.78
+Discovered open port 31684/tcp on 154.57.164.78
+Discovered open port 30676/tcp on 154.57.164.78
+Discovered open port 30226/tcp on 154.57.164.78
+Discovered open port 31148/tcp on 154.57.164.78
+Discovered open port 32423/tcp on 154.57.164.78
+Discovered open port 30253/tcp on 154.57.164.78
+Discovered open port 31689/tcp on 154.57.164.78
+Discovered open port 31197/tcp on 154.57.164.78
+Discovered open port 32236/tcp on 154.57.164.78
+Discovered open port 31121/tcp on 154.57.164.78
+Discovered open port 30575/tcp on 154.57.164.78
+Discovered open port 30439/tcp on 154.57.164.78
+Discovered open port 30571/tcp on 154.57.164.78
+Discovered open port 30429/tcp on 154.57.164.78
+Discovered open port 30682/tcp on 154.57.164.78
+Discovered open port 32658/tcp on 154.57.164.78
+Discovered open port 32714/tcp on 154.57.164.78
+Discovered open port 32765/tcp on 154.57.164.78
+Discovered open port 31671/tcp on 154.57.164.78
+Discovered open port 31444/tcp on 154.57.164.78
+Discovered open port 32669/tcp on 154.57.164.78
+Discovered open port 32323/tcp on 154.57.164.78
+Discovered open port 32722/tcp on 154.57.164.78
+Discovered open port 32127/tcp on 154.57.164.78
+Discovered open port 32163/tcp on 154.57.164.78
+Discovered open port 31321/tcp on 154.57.164.78
+Discovered open port 30586/tcp on 154.57.164.78
+Discovered open port 30948/tcp on 154.57.164.78
+Discovered open port 31704/tcp on 154.57.164.78
+Discovered open port 32302/tcp on 154.57.164.78
+Discovered open port 31172/tcp on 154.57.164.78
+Discovered open port 32451/tcp on 154.57.164.78
+Discovered open port 32506/tcp on 154.57.164.78
+Discovered open port 30168/tcp on 154.57.164.78
+Discovered open port 31989/tcp on 154.57.164.78
+Discovered open port 32536/tcp on 154.57.164.78
+Discovered open port 31645/tcp on 154.57.164.78
+Discovered open port 30617/tcp on 154.57.164.78
+Discovered open port 32759/tcp on 154.57.164.78
+Discovered open port 30875/tcp on 154.57.164.78
+Discovered open port 32535/tcp on 154.57.164.78
+Discovered open port 31305/tcp on 154.57.164.78
+Discovered open port 30606/tcp on 154.57.164.78
+Discovered open port 31703/tcp on 154.57.164.78
+Discovered open port 30965/tcp on 154.57.164.78
+Discovered open port 31346/tcp on 154.57.164.78
+Discovered open port 30945/tcp on 154.57.164.78
+Discovered open port 31866/tcp on 154.57.164.78
+Discovered open port 31495/tcp on 154.57.164.78
+Discovered open port 32209/tcp on 154.57.164.78
+Discovered open port 31130/tcp on 154.57.164.78
+Discovered open port 31669/tcp on 154.57.164.78
+Discovered open port 32270/tcp on 154.57.164.78
+Discovered open port 31600/tcp on 154.57.164.78
+Discovered open port 30369/tcp on 154.57.164.78
+Discovered open port 31463/tcp on 154.57.164.78
+Discovered open port 31393/tcp on 154.57.164.78
+Discovered open port 30975/tcp on 154.57.164.78
+Discovered open port 31719/tcp on 154.57.164.78
+Discovered open port 32735/tcp on 154.57.164.78
+Completed SYN Stealth Scan at 06:41, 7.06s elapsed (375 total ports)
+Nmap scan report for 154-57-164-78.static.isp.htb.systems (154.57.164.78)
+Host is up, received echo-reply ttl 54 (0.64s latency).
+Scanned at 2026-05-20 06:41:26 EAT for 7s
+
+PORT      STATE  SERVICE     REASON
+53/tcp    open   domain      syn-ack ttl 64
+30021/tcp open   unknown     syn-ack ttl 53
+30091/tcp open   unknown     syn-ack ttl 53
+30095/tcp open   unknown     syn-ack ttl 53
+30097/tcp open   unknown     syn-ack ttl 53
+30100/tcp open   rwp         syn-ack ttl 53
+30101/tcp open   unknown     syn-ack ttl 53
+30111/tcp open   unknown     syn-ack ttl 53
+30120/tcp open   unknown     syn-ack ttl 53
+30126/tcp open   unknown     syn-ack ttl 53
+30143/tcp open   unknown     syn-ack ttl 52
+30153/tcp open   unknown     syn-ack ttl 53
+30154/tcp open   unknown     syn-ack ttl 53
+30155/tcp open   unknown     syn-ack ttl 53
+30168/tcp open   unknown     syn-ack ttl 53
+30197/tcp open   unknown     syn-ack ttl 53
+30202/tcp open   unknown     syn-ack ttl 53
+30219/tcp open   unknown     syn-ack ttl 53
+30220/tcp open   unknown     syn-ack ttl 53
+30222/tcp open   unknown     syn-ack ttl 53
+30226/tcp open   unknown     syn-ack ttl 53
+30242/tcp open   unknown     syn-ack ttl 53
+30245/tcp open   unknown     syn-ack ttl 53
+30246/tcp open   unknown     syn-ack ttl 53
+30247/tcp open   unknown     syn-ack ttl 53
+30248/tcp open   unknown     syn-ack ttl 53
+30249/tcp open   unknown     syn-ack ttl 52
+30253/tcp open   unknown     syn-ack ttl 53
+30256/tcp open   unknown     syn-ack ttl 53
+30261/tcp open   unknown     syn-ack ttl 53
+30274/tcp open   unknown     syn-ack ttl 53
+30276/tcp open   unknown     syn-ack ttl 53
+30278/tcp open   unknown     syn-ack ttl 53
+30288/tcp open   unknown     syn-ack ttl 53
+30289/tcp open   unknown     syn-ack ttl 53
+30310/tcp open   unknown     syn-ack ttl 53
+30324/tcp open   unknown     syn-ack ttl 52
+30334/tcp open   unknown     syn-ack ttl 53
+30349/tcp open   unknown     syn-ack ttl 53
+30352/tcp open   unknown     syn-ack ttl 53
+30360/tcp open   unknown     syn-ack ttl 53
+30369/tcp open   unknown     syn-ack ttl 53
+30382/tcp open   unknown     syn-ack ttl 53
+30391/tcp open   unknown     syn-ack ttl 53
+30395/tcp open   unknown     syn-ack ttl 53
+30397/tcp open   unknown     syn-ack ttl 53
+30414/tcp open   unknown     syn-ack ttl 53
+30415/tcp open   unknown     syn-ack ttl 53
+30418/tcp open   unknown     syn-ack ttl 53
+30419/tcp open   unknown     syn-ack ttl 53
+30422/tcp open   unknown     syn-ack ttl 53
+30424/tcp open   unknown     syn-ack ttl 53
+30426/tcp open   unknown     syn-ack ttl 52
+30429/tcp open   unknown     syn-ack ttl 53
+30434/tcp open   unknown     syn-ack ttl 53
+30435/tcp open   unknown     syn-ack ttl 53
+30438/tcp open   unknown     syn-ack ttl 53
+30439/tcp open   unknown     syn-ack ttl 53
+30472/tcp open   unknown     syn-ack ttl 53
+30492/tcp open   unknown     syn-ack ttl 53
+30500/tcp open   unknown     syn-ack ttl 53
+30501/tcp open   unknown     syn-ack ttl 53
+30502/tcp open   unknown     syn-ack ttl 52
+30503/tcp open   unknown     syn-ack ttl 53
+30507/tcp open   unknown     syn-ack ttl 53
+30517/tcp open   unknown     syn-ack ttl 53
+30527/tcp open   unknown     syn-ack ttl 53
+30543/tcp open   unknown     syn-ack ttl 53
+30547/tcp open   unknown     syn-ack ttl 53
+30557/tcp open   unknown     syn-ack ttl 53
+30559/tcp open   unknown     syn-ack ttl 53
+30565/tcp open   unknown     syn-ack ttl 53
+30566/tcp open   unknown     syn-ack ttl 53
+30571/tcp open   unknown     syn-ack ttl 53
+30575/tcp open   unknown     syn-ack ttl 53
+30586/tcp open   unknown     syn-ack ttl 53
+30589/tcp open   unknown     syn-ack ttl 53
+30593/tcp open   unknown     syn-ack ttl 53
+30594/tcp open   unknown     syn-ack ttl 53
+30595/tcp open   unknown     syn-ack ttl 52
+30606/tcp open   unknown     syn-ack ttl 53
+30608/tcp open   unknown     syn-ack ttl 53
+30611/tcp open   unknown     syn-ack ttl 53
+30612/tcp open   unknown     syn-ack ttl 53
+30617/tcp open   unknown     syn-ack ttl 53
+30628/tcp open   unknown     syn-ack ttl 53
+30650/tcp open   unknown     syn-ack ttl 53
+30665/tcp open   unknown     syn-ack ttl 53
+30675/tcp open   unknown     syn-ack ttl 53
+30676/tcp open   unknown     syn-ack ttl 53
+30677/tcp open   unknown     syn-ack ttl 53
+30678/tcp open   unknown     syn-ack ttl 53
+30680/tcp open   unknown     syn-ack ttl 53
+30682/tcp open   unknown     syn-ack ttl 53
+30712/tcp open   unknown     syn-ack ttl 53
+30753/tcp open   unknown     syn-ack ttl 53
+30766/tcp open   unknown     syn-ack ttl 53
+30767/tcp open   unknown     syn-ack ttl 53
+30782/tcp open   unknown     syn-ack ttl 53
+30803/tcp open   unknown     syn-ack ttl 53
+30810/tcp open   unknown     syn-ack ttl 53
+30856/tcp open   unknown     syn-ack ttl 53
+30860/tcp open   unknown     syn-ack ttl 53
+30875/tcp open   unknown     syn-ack ttl 53
+30886/tcp open   unknown     syn-ack ttl 53
+30899/tcp open   unknown     syn-ack ttl 53
+30904/tcp open   unknown     syn-ack ttl 53
+30920/tcp open   unknown     syn-ack ttl 53
+30925/tcp open   unknown     syn-ack ttl 53
+30940/tcp open   unknown     syn-ack ttl 53
+30942/tcp open   unknown     syn-ack ttl 53
+30945/tcp open   unknown     syn-ack ttl 53
+30947/tcp open   unknown     syn-ack ttl 53
+30948/tcp open   unknown     syn-ack ttl 53
+30952/tcp open   unknown     syn-ack ttl 53
+30955/tcp open   unknown     syn-ack ttl 53
+30956/tcp closed unknown     reset ttl 54
+30965/tcp open   unknown     syn-ack ttl 52
+30971/tcp open   unknown     syn-ack ttl 53
+30975/tcp open   unknown     syn-ack ttl 53
+30987/tcp open   unknown     syn-ack ttl 53
+30998/tcp open   unknown     syn-ack ttl 53
+31028/tcp open   unknown     syn-ack ttl 53
+31040/tcp open   unknown     syn-ack ttl 53
+31041/tcp open   unknown     syn-ack ttl 53
+31046/tcp open   unknown     syn-ack ttl 53
+31054/tcp open   unknown     syn-ack ttl 53
+31057/tcp open   unknown     syn-ack ttl 53
+31067/tcp open   unknown     syn-ack ttl 53
+31075/tcp open   unknown     syn-ack ttl 53
+31082/tcp open   unknown     syn-ack ttl 53
+31092/tcp open   unknown     syn-ack ttl 53
+31119/tcp open   unknown     syn-ack ttl 53
+31121/tcp open   unknown     syn-ack ttl 53
+31122/tcp open   unknown     syn-ack ttl 53
+31123/tcp open   unknown     syn-ack ttl 53
+31130/tcp open   unknown     syn-ack ttl 53
+31132/tcp open   unknown     syn-ack ttl 53
+31148/tcp open   unknown     syn-ack ttl 53
+31156/tcp open   unknown     syn-ack ttl 53
+31172/tcp open   unknown     syn-ack ttl 53
+31174/tcp open   unknown     syn-ack ttl 53
+31184/tcp open   unknown     syn-ack ttl 53
+31185/tcp open   unknown     syn-ack ttl 53
+31186/tcp open   unknown     syn-ack ttl 53
+31192/tcp open   unknown     syn-ack ttl 53
+31197/tcp open   unknown     syn-ack ttl 53
+31207/tcp open   unknown     syn-ack ttl 53
+31211/tcp open   unknown     syn-ack ttl 53
+31214/tcp open   unknown     syn-ack ttl 53
+31226/tcp open   unknown     syn-ack ttl 53
+31229/tcp open   unknown     syn-ack ttl 52
+31237/tcp open   unknown     syn-ack ttl 53
+31248/tcp open   unknown     syn-ack ttl 53
+31250/tcp open   unknown     syn-ack ttl 53
+31266/tcp open   unknown     syn-ack ttl 53
+31268/tcp open   unknown     syn-ack ttl 53
+31269/tcp open   unknown     syn-ack ttl 53
+31270/tcp open   unknown     syn-ack ttl 53
+31283/tcp open   unknown     syn-ack ttl 53
+31286/tcp open   unknown     syn-ack ttl 53
+31297/tcp open   unknown     syn-ack ttl 53
+31298/tcp open   unknown     syn-ack ttl 52
+31303/tcp open   unknown     syn-ack ttl 53
+31305/tcp open   unknown     syn-ack ttl 53
+31310/tcp open   unknown     syn-ack ttl 53
+31311/tcp open   unknown     syn-ack ttl 52
+31320/tcp open   unknown     syn-ack ttl 53
+31321/tcp open   unknown     syn-ack ttl 53
+31329/tcp open   unknown     syn-ack ttl 53
+31333/tcp open   unknown     syn-ack ttl 53
+31334/tcp open   unknown     syn-ack ttl 53
+31344/tcp open   unknown     syn-ack ttl 53
+31346/tcp open   unknown     syn-ack ttl 53
+31354/tcp open   unknown     syn-ack ttl 53
+31355/tcp open   unknown     syn-ack ttl 53
+31361/tcp open   unknown     syn-ack ttl 53
+31364/tcp open   unknown     syn-ack ttl 53
+31368/tcp open   unknown     syn-ack ttl 53
+31380/tcp open   unknown     syn-ack ttl 53
+31384/tcp open   unknown     syn-ack ttl 53
+31386/tcp open   unknown     syn-ack ttl 53
+31393/tcp open   unknown     syn-ack ttl 53
+31413/tcp open   unknown     syn-ack ttl 53
+31417/tcp open   unknown     syn-ack ttl 53
+31422/tcp open   unknown     syn-ack ttl 53
+31432/tcp open   unknown     syn-ack ttl 53
+31438/tcp open   unknown     syn-ack ttl 52
+31440/tcp open   unknown     syn-ack ttl 53
+31444/tcp open   unknown     syn-ack ttl 53
+31448/tcp open   unknown     syn-ack ttl 53
+31449/tcp open   unknown     syn-ack ttl 53
+31457/tcp open   tetrinet    syn-ack ttl 53
+31463/tcp open   unknown     syn-ack ttl 53
+31468/tcp open   unknown     syn-ack ttl 53
+31485/tcp open   unknown     syn-ack ttl 53
+31495/tcp open   unknown     syn-ack ttl 53
+31502/tcp open   unknown     syn-ack ttl 53
+31528/tcp open   unknown     syn-ack ttl 53
+31541/tcp open   unknown     syn-ack ttl 52
+31575/tcp open   unknown     syn-ack ttl 53
+31591/tcp open   unknown     syn-ack ttl 53
+31598/tcp open   unknown     syn-ack ttl 53
+31600/tcp open   unknown     syn-ack ttl 53
+31607/tcp open   unknown     syn-ack ttl 53
+31608/tcp open   unknown     syn-ack ttl 53
+31617/tcp open   unknown     syn-ack ttl 53
+31622/tcp open   unknown     syn-ack ttl 53
+31626/tcp open   unknown     syn-ack ttl 53
+31628/tcp open   unknown     syn-ack ttl 52
+31645/tcp open   unknown     syn-ack ttl 53
+31647/tcp open   unknown     syn-ack ttl 53
+31663/tcp open   unknown     syn-ack ttl 53
+31669/tcp open   unknown     syn-ack ttl 53
+31671/tcp open   unknown     syn-ack ttl 53
+31678/tcp open   unknown     syn-ack ttl 53
+31684/tcp open   unknown     syn-ack ttl 53
+31685/tcp open   dsx_monitor syn-ack ttl 53
+31689/tcp open   unknown     syn-ack ttl 53
+31690/tcp open   unknown     syn-ack ttl 53
+31698/tcp open   unknown     syn-ack ttl 53
+31701/tcp open   unknown     syn-ack ttl 53
+31703/tcp open   unknown     syn-ack ttl 53
+31704/tcp open   unknown     syn-ack ttl 53
+31708/tcp open   unknown     syn-ack ttl 53
+31713/tcp open   unknown     syn-ack ttl 53
+31719/tcp open   unknown     syn-ack ttl 53
+31723/tcp open   unknown     syn-ack ttl 53
+31727/tcp open   diagd       syn-ack ttl 53
+31738/tcp open   unknown     syn-ack ttl 53
+31746/tcp open   unknown     syn-ack ttl 53
+31769/tcp open   unknown     syn-ack ttl 53
+31770/tcp open   unknown     syn-ack ttl 53
+31772/tcp open   unknown     syn-ack ttl 53
+31777/tcp open   unknown     syn-ack ttl 53
+31778/tcp open   unknown     syn-ack ttl 53
+31781/tcp open   unknown     syn-ack ttl 53
+31783/tcp open   unknown     syn-ack ttl 53
+31795/tcp open   unknown     syn-ack ttl 53
+31810/tcp open   unknown     syn-ack ttl 53
+31824/tcp open   unknown     syn-ack ttl 53
+31833/tcp open   unknown     syn-ack ttl 53
+31843/tcp open   unknown     syn-ack ttl 53
+31846/tcp open   unknown     syn-ack ttl 53
+31864/tcp open   unknown     syn-ack ttl 53
+31866/tcp open   unknown     syn-ack ttl 53
+31885/tcp open   unknown     syn-ack ttl 53
+31917/tcp open   unknown     syn-ack ttl 53
+31918/tcp open   unknown     syn-ack ttl 53
+31919/tcp open   unknown     syn-ack ttl 53
+31942/tcp open   unknown     syn-ack ttl 53
+31943/tcp open   unknown     syn-ack ttl 53
+31946/tcp open   unknown     syn-ack ttl 53
+31948/tcp open   iceedcp_tx  syn-ack ttl 53
+31950/tcp open   unknown     syn-ack ttl 53
+31967/tcp open   unknown     syn-ack ttl 53
+31972/tcp open   unknown     syn-ack ttl 53
+31979/tcp open   unknown     syn-ack ttl 53
+31986/tcp open   unknown     syn-ack ttl 53
+31989/tcp open   unknown     syn-ack ttl 53
+31993/tcp open   unknown     syn-ack ttl 53
+32003/tcp open   unknown     syn-ack ttl 53
+32005/tcp open   unknown     syn-ack ttl 53
+32006/tcp open   unknown     syn-ack ttl 53
+32008/tcp open   unknown     syn-ack ttl 53
+32009/tcp open   unknown     syn-ack ttl 53
+32028/tcp open   unknown     syn-ack ttl 53
+32029/tcp open   unknown     syn-ack ttl 53
+32033/tcp open   unknown     syn-ack ttl 52
+32035/tcp open   unknown     syn-ack ttl 53
+32051/tcp open   unknown     syn-ack ttl 52
+32053/tcp open   unknown     syn-ack ttl 53
+32057/tcp open   unknown     syn-ack ttl 53
+32072/tcp open   unknown     syn-ack ttl 53
+32077/tcp open   unknown     syn-ack ttl 53
+32080/tcp open   unknown     syn-ack ttl 53
+32081/tcp open   unknown     syn-ack ttl 53
+32082/tcp open   unknown     syn-ack ttl 53
+32085/tcp open   unknown     syn-ack ttl 52
+32086/tcp open   unknown     syn-ack ttl 53
+32091/tcp open   unknown     syn-ack ttl 53
+32107/tcp open   unknown     syn-ack ttl 52
+32127/tcp open   unknown     syn-ack ttl 53
+32153/tcp open   unknown     syn-ack ttl 53
+32155/tcp open   unknown     syn-ack ttl 53
+32161/tcp open   unknown     syn-ack ttl 53
+32162/tcp open   unknown     syn-ack ttl 53
+32163/tcp open   unknown     syn-ack ttl 53
+32180/tcp open   unknown     syn-ack ttl 53
+32181/tcp open   unknown     syn-ack ttl 53
+32184/tcp open   unknown     syn-ack ttl 53
+32194/tcp open   unknown     syn-ack ttl 53
+32203/tcp open   unknown     syn-ack ttl 53
+32209/tcp open   unknown     syn-ack ttl 53
+32234/tcp open   unknown     syn-ack ttl 53
+32236/tcp open   unknown     syn-ack ttl 53
+32240/tcp open   unknown     syn-ack ttl 53
+32245/tcp open   unknown     syn-ack ttl 53
+32269/tcp open   unknown     syn-ack ttl 53
+32270/tcp open   unknown     syn-ack ttl 53
+32272/tcp open   unknown     syn-ack ttl 53
+32275/tcp open   unknown     syn-ack ttl 53
+32286/tcp open   unknown     syn-ack ttl 53
+32302/tcp open   unknown     syn-ack ttl 53
+32308/tcp open   unknown     syn-ack ttl 53
+32317/tcp open   unknown     syn-ack ttl 53
+32323/tcp open   unknown     syn-ack ttl 53
+32328/tcp open   unknown     syn-ack ttl 53
+32338/tcp open   unknown     syn-ack ttl 53
+32339/tcp open   unknown     syn-ack ttl 53
+32340/tcp open   unknown     syn-ack ttl 53
+32345/tcp open   unknown     syn-ack ttl 53
+32348/tcp open   unknown     syn-ack ttl 53
+32354/tcp open   unknown     syn-ack ttl 53
+32361/tcp open   unknown     syn-ack ttl 53
+32364/tcp open   unknown     syn-ack ttl 53
+32370/tcp open   unknown     syn-ack ttl 53
+32380/tcp open   unknown     syn-ack ttl 53
+32381/tcp open   unknown     syn-ack ttl 53
+32398/tcp open   unknown     syn-ack ttl 53
+32408/tcp open   unknown     syn-ack ttl 53
+32410/tcp open   unknown     syn-ack ttl 53
+32417/tcp open   unknown     syn-ack ttl 53
+32423/tcp open   unknown     syn-ack ttl 53
+32441/tcp open   unknown     syn-ack ttl 53
+32451/tcp open   unknown     syn-ack ttl 53
+32464/tcp open   unknown     syn-ack ttl 53
+32465/tcp open   unknown     syn-ack ttl 53
+32476/tcp open   unknown     syn-ack ttl 53
+32477/tcp open   unknown     syn-ack ttl 53
+32497/tcp open   unknown     syn-ack ttl 52
+32498/tcp open   unknown     syn-ack ttl 53
+32506/tcp open   unknown     syn-ack ttl 53
+32507/tcp open   unknown     syn-ack ttl 53
+32510/tcp open   unknown     syn-ack ttl 53
+32512/tcp open   unknown     syn-ack ttl 53
+32518/tcp open   unknown     syn-ack ttl 53
+32524/tcp open   unknown     syn-ack ttl 53
+32535/tcp open   unknown     syn-ack ttl 53
+32536/tcp open   unknown     syn-ack ttl 53
+32538/tcp open   unknown     syn-ack ttl 53
+32548/tcp open   unknown     syn-ack ttl 53
+32555/tcp open   unknown     syn-ack ttl 53
+32557/tcp open   unknown     syn-ack ttl 53
+32566/tcp open   unknown     syn-ack ttl 53
+32572/tcp open   unknown     syn-ack ttl 53
+32575/tcp open   unknown     syn-ack ttl 53
+32577/tcp open   unknown     syn-ack ttl 53
+32578/tcp open   unknown     syn-ack ttl 53
+32602/tcp open   unknown     syn-ack ttl 53
+32603/tcp open   unknown     syn-ack ttl 53
+32604/tcp open   unknown     syn-ack ttl 53
+32608/tcp open   unknown     syn-ack ttl 53
+32615/tcp open   unknown     syn-ack ttl 53
+32617/tcp open   unknown     syn-ack ttl 53
+32631/tcp open   unknown     syn-ack ttl 53
+32632/tcp open   unknown     syn-ack ttl 52
+32637/tcp open   unknown     syn-ack ttl 53
+32658/tcp open   unknown     syn-ack ttl 53
+32660/tcp open   unknown     syn-ack ttl 53
+32669/tcp open   unknown     syn-ack ttl 52
+32685/tcp open   unknown     syn-ack ttl 53
+32692/tcp open   unknown     syn-ack ttl 53
+32706/tcp open   unknown     syn-ack ttl 53
+32714/tcp open   unknown     syn-ack ttl 53
+32722/tcp open   unknown     syn-ack ttl 52
+32723/tcp open   unknown     syn-ack ttl 53
+32724/tcp open   unknown     syn-ack ttl 53
+32730/tcp open   unknown     syn-ack ttl 53
+32735/tcp open   unknown     syn-ack ttl 53
+32743/tcp open   unknown     syn-ack ttl 53
+32759/tcp open   unknown     syn-ack ttl 53
+32763/tcp open   unknown     syn-ack ttl 53
+32764/tcp open   unknown     syn-ack ttl 53
+32765/tcp open   unknown     syn-ack ttl 53
+
+Read data files from: /usr/share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 9.41 seconds
+           Raw packets sent: 389 (17.092KB) | Rcvd: 420 (18.733KB)
+
