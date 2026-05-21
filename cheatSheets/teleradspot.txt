@@ -1,0 +1,62 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-05-18 18:42 +0300
+Nmap scan report for telerad.spot (10.0.0.1)
+Host is up (0.028s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+53/tcp   open  domain
+80/tcp   open  http
+| http-slowloris-check: 
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|       
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+| http-csrf: 
+| Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=telerad.spot
+|   Found the following possible CSRF vulnerabilities: 
+|     
+|     Path: http://telerad.spot:80/logout
+|     Form id: 
+|     Form action: http://telerad.spot/login
+|     
+|     Path: http://telerad.spot:80/login
+|     Form id: 
+|     Form action: http://telerad.spot/login
+|     
+|     Path: http://telerad.spot:80/login
+|     Form id: wifi_name
+|_    Form action: http://telerad.spot/login
+| http-vuln-cve2010-0738: 
+|_  /jmx-console/: Authentication was not required
+|_http-sql-injection: ERROR: Script execution failed (use -d to debug)
+|_http-vuln-cve2017-1001000: ERROR: Script execution failed (use -d to debug)
+| http-fileupload-exploiter: 
+|   
+|     Couldn't find a file-type field.
+|   
+|_    Couldn't find a file-type field.
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+| http-enum: 
+|_  /error.html: Potentially interesting folder
+443/tcp  open  https
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+|_http-aspnet-debug: ERROR: Script execution failed (use -d to debug)
+|_http-vuln-cve2014-3704: ERROR: Script execution failed (use -d to debug)
+|_http-csrf: Couldn't find any CSRF vulnerabilities.
+|_ssl-ccs-injection: No reply from server (TIMEOUT)
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+2000/tcp open  cisco-sccp
+8291/tcp open  winbox
+MAC Address: 04:F4:1C:46:73:58 (Routerboard.com)
+
+Nmap done: 1 IP address (1 host up) scanned in 66.34 seconds
