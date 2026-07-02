@@ -13,3 +13,6 @@ dist/
 build/
 *.ovpn
 *.zip
+*.exe
+.WriteUpss
+.WriteUpss
