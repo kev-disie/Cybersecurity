@@ -1,0 +1,4 @@
+After gaining the password to the wp login page via hydra login and move to the the themes directory then editor section and upload your reverse-shell script and update
+
+visit this page to trigger a terminal on your machine http://your-machines-tun0-ip-addres/wp-content/themes/twentyfifteen/404.php
+
