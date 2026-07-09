@@ -1,8 +1,0 @@
-# Nmap 7.99 scan initiated Tue Apr 28 18:39:40 2026 as: /usr/lib/nmap/nmap -p- --min-rate 5000 -sS -oN full_ports.txt 192.168.114.254
-Nmap scan report for 192.168.114.254
-Host is up (0.000069s latency).
-All 65535 scanned ports on 192.168.114.254 are in ignored states.
-Not shown: 65535 filtered tcp ports (no-response)
-MAC Address: 00:50:56:E9:D8:26 (VMware)
-
-# Nmap done at Tue Apr 28 18:40:09 2026 -- 1 IP address (1 host up) scanned in 29.02 seconds
